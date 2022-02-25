@@ -1,12 +1,12 @@
 # your domain
-domain: example.com
+domain: lcrproxypool.tk
 
 # database url
 database_url: ""
 
 # cloudflare api
-cf_email: ""
-cf_key: ""
+cf_email: "3309632925@qq.com"
+cf_key: "a39fd7355531b774f9b3ac973b7ef7b0f393a"
 
 # source definition file
 source-files:
